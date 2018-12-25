@@ -1,1 +1,1 @@
-var playlist = {foreverDolphinLove, "It's choade my dear"}
+var playlist = {"Forever Dolpin Love", "It's choade my dear"}
