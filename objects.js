@@ -1,1 +1,1 @@
-var playlist = {Dolphin, "It's choade my dear"}
+var playlist = {artistName, songTitle}
